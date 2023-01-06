@@ -1,3 +1,3 @@
 # Algorithms_Lab
-5th Seemester - 2022-23 Session
+5th Semester - 2022-23 Session
 DAA Laboratory
